@@ -1,0 +1,23 @@
+{
+  "name": "script-uploader",
+  "version": "1.0.0",
+  "description": "Code that takes the scripts written on Notion and automatically pushes them to the www repository using Github's API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orpheuspod/script-uploader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orpheuspod/script-uploader/issues"
+  },
+  "homepage": "https://github.com/Orpheuspod/script-uploader#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
